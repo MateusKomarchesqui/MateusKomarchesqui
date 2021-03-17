@@ -11,7 +11,7 @@
 <h3 align="center">Also find me at</h3>
 <p align="left">
 <a href="https://linkedin.com/in/m.komarchesqui" target="blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1615998167~hmac=55d880bc6193358908d6b380e8a1a3ed" alt="m.komarchesqui" height="30" width="40" /></a>
-<a href="https://discord.gg/Komarchewski#5437" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="Komarchewski#5437" height="30" width="40" /></a>
+<a href="https://discord.gg/Komarchewski#5437" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/91_Discord_logo_logos-512.png" alt="Komarchewski#5437" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
