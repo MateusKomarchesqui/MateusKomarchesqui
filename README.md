@@ -9,7 +9,8 @@
 <h3 align="center">$~ Find me at ~$</h3>
 
 <a href="blank" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Gmail_Icon.svg/1200px-Gmail_Icon.svg.png" alt="mateuskomarchesqui@gmail.com" height="30" width="40" /></a>
-</p>
+**mateuskomarchesqui@gmail.com**
+
 
 <a href="https://linkedin.com/in/m.komarchesqui" target="blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1615998167~hmac=55d880bc6193358908d6b380e8a1a3ed" alt="m.komarchesqui" height="30" width="40" /></a>
 
