@@ -1,11 +1,11 @@
 <h1 align="center">I'm Mateus Komarchesqui</h1>
 <h3 align="center">Computer Science Student</h3>
 
-- 📫 Reach me at **mateuskomarchesqui@gmail.com**
+- 📫 Reach me at: **mateuskomarchesqui@gmail.com**
 
-- 📄 Lenguage Certificates **➻ Cambridge FCE ➻GOETHE-ZERTIFIKAT A1**
+- 📄 Lenguage Certificates: **➻ Cambridge FCE** ** ➻GOETHE-ZERTIFIKAT A1**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Also find me at:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/m.komarchesqui" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="m.komarchesqui" height="30" width="40" /></a>
 <a href="https://discord.gg/Komarchewski#5437" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="Komarchewski#5437" height="30" width="40" /></a>
