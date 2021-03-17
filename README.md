@@ -8,7 +8,7 @@
 
 <h3 align="center">$~ Find me at ~$</h3>
 
-<a href=" " target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" alt=" " height="30" width="40" /></a>
+<a href="https://github.com/MateusKomarchesqui" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" alt=" " height="30" width="40" /></a>
 **mateuskomarchesqui@gmail.com**
 
 <h3 align="center">$~ Languages and Tools ~$</h3>
