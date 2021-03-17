@@ -8,7 +8,7 @@
 
 <h3 align="center">$~ Find me at ~$</h3>
 
-<a href="mateuskomarchesqui@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Gmail_Icon.svg/1200px-Gmail_Icon.svg.png" alt="mateuskomarchesqui@gmail.com" height="30" width="40" /></a>
+<a href="mateuskomarchesqui@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Gmail_Icon.svg/1200px-Gmail_Icon.svg.png" alt="gmail" height="30" width="40" /></a>
 **mateuskomarchesqui@gmail.com**
 
 <h3 align="center">$~ Languages and Tools ~$</h3>
