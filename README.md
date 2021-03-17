@@ -3,7 +3,7 @@
 
 - 📫 Reach me at: **mateuskomarchesqui@gmail.com**
 
-<h3 align="left">📄 Lenguage Certificates:</h3>
+<h3 align="center">📄 Lenguage Certificates:</h3>
 <p align="left">
 <h3 align="left">➻ Cambridge FCE</h3>
 <h3 align="left">➻ ➻ GOETHE-ZERTIFIKAT A1</h3>  
