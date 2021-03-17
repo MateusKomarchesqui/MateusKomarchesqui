@@ -7,6 +7,7 @@
 ➻ GOETHE-ZERTIFIKAT A1  
 
 <h3 align="center">$~ Find me at ~$</h3>
+
 <a href="mateuskomarchesqui@gmail.com" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" alt="mateuskomarchesqui@gmail.com" height="30" width="40" /></a>
 **mateuskomarchesqui@gmail.com**
 
