@@ -2,6 +2,7 @@
 <h3 align="center">$~ Computer Science Student ~$</h3>
 
 ![oi](https://image.winudf.com/v2/image/b25pYnVzLnVlbF9pY29uXzBfMjBlZTk3NmI/icon.png?w=100&fakeurl=1)
+Universidade Estadual de Londrina
 
 
 
