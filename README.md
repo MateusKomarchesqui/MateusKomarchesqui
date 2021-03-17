@@ -1,7 +1,7 @@
 <h1 align="center">I'm Mateus Komarchesqui</h1>
 <h3 align="center">$~ Computer Science Student ~$</h3>
 <h4 align="center">Universidade Estadual de Londrina</h3>
-<a href="https://github.com/MateusKomarchesqui" target="blank"><img align="center" src="https://i.imgur.com/Fo8oRpR.png" alt="" height="40" width="45" /></a>
+<a href="https://github.com/MateusKomarchesqui" target="blank"><img align="center" src="https://i.imgur.com/Fo8oRpR.png" alt="" height="80" width="90" /></a>
 
 <h3 align="center">$~ Lenguage Certificates ~$</h3>
 ➻ Cambridge FCE
