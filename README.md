@@ -1,7 +1,5 @@
 <h1 align="center">I'm Mateus Komarchesqui</h1>
 <h3 align="center">$~ Computer Science Student ~$</h3>
-<a href="https://github.com/MateusKomarchesqui" target="blank"><img align="center" src="https://iconape.com/wp-content/files/vs/194868/svg/194868.svg" alt=" " height="30" width="40" /></a>
-
 
 <h3 align="center">$~ Lenguage Certificates ~$</h3>
 ➻ Cambridge FCE
