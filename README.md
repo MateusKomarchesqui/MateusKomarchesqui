@@ -5,8 +5,8 @@
 
 <h3 align="center">$~ Lenguage Certificates ~$</h3>
 <p align="left">
-<h3 align="left"> ➻ Cambridge FCE</h3>
-<h3 align="left"> ➻ GOETHE-ZERTIFIKAT A1</h3>  
+➻ Cambridge FCE
+➻ GOETHE-ZERTIFIKAT A1  
 
 <h3 align="center">$~ Also find me at ~$</h3>
 <p align="left">
