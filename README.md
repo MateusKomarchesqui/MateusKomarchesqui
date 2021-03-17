@@ -14,5 +14,5 @@
 <a href="https://discord.gg/Komarchewski#5437" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-512/discord-3-569463.png" alt="Komarchewski#5437" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="center">$~ Languages and Tools ~$</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
