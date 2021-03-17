@@ -19,6 +19,8 @@
 
 <p align="center">
 <a href="https://github.com/MateusKomarchesqui" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" alt=" " height="30" width="40" /></a>
+</p>
+<p align="center">
 **mateuskomarchesqui@gmail.com**
 </p>
 
