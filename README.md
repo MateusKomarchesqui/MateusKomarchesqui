@@ -1,7 +1,7 @@
 <h1 align="center">I'm Mateus Komarchesqui</h1>
 <h3 align="center">$~ Computer Science Student ~$</h3>
 
-![oi](https://image.winudf.com/v2/image/b25pYnVzLnVlbF9pY29uXzBfMjBlZTk3NmI/icon.png?w=100&fakeurl=1)
+![oi](https://64.media.tumblr.com/c8771963d5c44402c541fa083386e8bc/tumblr_or7f5r6zei1tlmx1vo1_250.gif)
 
 
 
