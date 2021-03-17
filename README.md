@@ -4,7 +4,6 @@
 ➻ Reach me at my e-mail: **mateuskomarchesqui@gmail.com**
 
 <h3 align="center">$~ Lenguage Certificates ~$</h3>
-<p align="left">
 ➻ Cambridge FCE
   
 ➻ GOETHE-ZERTIFIKAT A1  
