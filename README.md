@@ -6,7 +6,7 @@
   
 ➻ GOETHE-ZERTIFIKAT A1  
 
-<h3 align="center">$~ Also find me at ~$</h3>
+<h3 align="center">$~ Find me at ~$</h3>
 
 ➻ Reach me at my e-mail: **mateuskomarchesqui@gmail.com**
  
