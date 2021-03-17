@@ -1,8 +1,9 @@
 <h1 align="center">I'm Mateus Komarchesqui</h1>
 <h3 align="center">$~ Computer Science Student ~$</h3>
 
-![oi](https://64.media.tumblr.com/c8771963d5c44402c541fa083386e8bc/tumblr_or7f5r6zei1tlmx1vo1_250.gif)
-
+<p align="center">
+  <img width="460" height="300" src="https://64.media.tumblr.com/c8771963d5c44402c541fa083386e8bc/tumblr_or7f5r6zei1tlmx1vo1_250.gif">
+</p>
 
 
 <h3 align="center">$~ Lenguage Certificates ~$</h3>
