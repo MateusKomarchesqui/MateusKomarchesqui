@@ -1,5 +1,7 @@
 <h1 align="center">I'm Mateus Komarchesqui</h1>
 <h3 align="center">$~ Computer Science Student ~$</h3>
+<h2 align="center">$~ Computer Science Student ~$</h3>
+
 
 <h3 align="center">$~ Lenguage Certificates ~$</h3>
 ➻ Cambridge FCE
