@@ -6,7 +6,7 @@
 </p>
 
 
-<h2 align="center">$~ Lenguage Certificates ~$</h2>
+<h2 align="center">$~ Language Certificates ~$</h2>
 
 <p align="center">
 ➻ Cambridge FCE
