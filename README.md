@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I am a Computer Science student at the State University of Londrina.<br><br>Undergraduate thesis developed using Quantum Computing and Machine Learning for computer network intrusion detection.<br><br>Currently, I am researching Machine Learning in classical computing, computer network security, and explainable AI.</p>
+<p align="left">I am a Master's student in Computer Science at the State University of Londrina.<br><br>Undergraduate thesis developed using Quantum Computing and Machine Learning for computer network intrusion detection.<br><br>Currently, I am researching Machine Learning in classical computing, computer network security, and explainable AI.</p>
 
 ###
 
